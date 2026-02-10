@@ -19,12 +19,18 @@ A streamlined note-taking platform designed to capture your ideas and thoughts. 
 |DELETE	 |/api/notes/:id| Delete a note. Permanently removes a note from the database.|
 
 ## Getting Started
+
+### Installation
+
+
 ### Execution program
 Run backend: 
 ` cd backend `
+` npm install `
 ` npm run dev `
 
 Run frontend: 
 ` cd frontend `
+` npm install `
 ` npm run dev `
 
