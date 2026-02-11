@@ -4,6 +4,12 @@ A centralized platform for your ideas.
 ## Description
 A streamlined note-taking platform designed to capture your ideas and thoughts. Every note features an automated timestamp and a simple title-content structure, allowing for effortless editing and organization.
 
+### Home Page
+![Home Page](/docs/images/homePage.png)
+
+### Create Page
+![Create Page](/docs/images/CreatePage.png)
+
 ## Implementation
 - User Rate Limiting: Integrated Upstash Redis to implement scalable rate limiting. Configuration settings, including request thresholds, are managed in ` backend/src/config/upstash.js`.
 
@@ -30,4 +36,8 @@ Run frontend:
 ` cd frontend `
 ` npm install `
 ` npm run dev `
+
+### Tech Stack
+MongoDB, Express, React, Node
+
 
