@@ -20,9 +20,6 @@ A streamlined note-taking platform designed to capture your ideas and thoughts. 
 
 ## Getting Started
 
-### Installation
-
-
 ### Execution program
 Run backend: 
 ` cd backend `
